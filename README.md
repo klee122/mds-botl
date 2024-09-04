@@ -17,4 +17,5 @@ This project explores gender differences in communication styles using machine l
 - Python 3.8+
 - Required packages: scikit-learn, pandas, numpy, imbalanced-learn, textblob, shap, nltk, gensim, transformers, matplotlib, seaborn
 
-  
+## Results
+- The RF model achieved an accuracy of 0.70 and an F1-score of 0.80 on the validation set.
